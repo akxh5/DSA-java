@@ -26,6 +26,9 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: Sliding Window  
   LeetCode: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
+- **[Easy] Roman to Integer**  
+  Technique: Reverse scan, subtraction rule  
+  LeetCode: https://leetcode.com/problems/roman-to-integer/
 ---
 
 ### Binary Search
@@ -33,6 +36,11 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: Binary search on partitions  
   LeetCode: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
+---
+### Math
+- **[Easy] Palindrome Number**  
+  Technique: Half reversal (math-based)  
+  LeetCode: https://leetcode.com/problems/palindrome-number/
 ---
 
 ## Repository Structure
