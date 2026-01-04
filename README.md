@@ -26,6 +26,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: Sliding Window  
   LeetCode: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
+- **[Medium] Longest Palindromic Substring**  
+  Technique: Expand Around Center (two pointers)  
+  LeetCode: https://leetcode.com/problems/longest-palindromic-substring/
+
 - **[Easy] Roman to Integer**  
   Technique: Reverse scan, subtraction rule  
   LeetCode: https://leetcode.com/problems/roman-to-integer/
