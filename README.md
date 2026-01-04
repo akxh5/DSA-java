@@ -29,6 +29,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Roman to Integer**  
   Technique: Reverse scan, subtraction rule  
   LeetCode: https://leetcode.com/problems/roman-to-integer/
+
+- **[Easy] Longest Common Prefix**  
+    Technique: Horizontal scanning  
+    LeetCode: https://leetcode.com/problems/longest-common-prefix/
 ---
 
 ### Binary Search
