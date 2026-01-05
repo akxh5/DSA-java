@@ -19,6 +19,9 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: Carry simulation, dummy node  
   LeetCode: https://leetcode.com/problems/add-two-numbers/
 
+- **[Easy] Merge Two Sorted Lists**  
+  Technique: Two pointers, dummy node, node splicing  
+  LeetCode: https://leetcode.com/problems/merge-two-sorted-lists/
 ---
 
 ### Strings
