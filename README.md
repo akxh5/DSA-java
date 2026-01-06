@@ -47,6 +47,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Longest Common Prefix**  
     Technique: Horizontal scanning  
     LeetCode: https://leetcode.com/problems/longest-common-prefix/
+
+- **[Easy] Find the Index of the First Occurrence in a String**  
+  Technique: Brute-force string matching  
+  LeetCode: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 ---
 
 ### Binary Search
