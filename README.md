@@ -15,6 +15,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Remove Duplicates from Sorted Array**  
   Technique: Two pointers, in-place overwrite  
   LeetCode: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+- **[Easy] Remove Element**  
+  Technique: Two pointers (both ends), in-place overwrite  
+  LeetCode: https://leetcode.com/problems/remove-element/
 ---
 
 ### Linked List
