@@ -51,6 +51,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Find the Index of the First Occurrence in a String**  
   Technique: Brute-force string matching  
   LeetCode: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
+
+- **[Easy] Length of Last Word**  
+  Technique: Reverse traversal, space skipping  
+  LeetCode: https://leetcode.com/problems/length-of-last-word/
 ---
 
 ### Binary Search
