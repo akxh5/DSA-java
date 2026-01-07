@@ -58,6 +58,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: Binary search on partitions  
   LeetCode: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
+- **[Easy] Search Insert Position**  
+  Technique: Binary search, insertion point via `low`  
+  LeetCode: https://leetcode.com/problems/search-insert-position/
+
 ---
 ### Math
 - **[Easy] Palindrome Number**  
