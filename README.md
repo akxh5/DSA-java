@@ -19,6 +19,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Remove Element**  
   Technique: Two pointers (both ends), in-place overwrite  
   LeetCode: https://leetcode.com/problems/remove-element/
+
+- **[Easy] Plus One**  
+  Technique: Backward digit scan, carry propagation  
+  LeetCode: https://leetcode.com/problems/plus-one/
 ---
 
 ### Linked List
