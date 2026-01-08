@@ -59,6 +59,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Length of Last Word**  
   Technique: Reverse traversal, space skipping  
   LeetCode: https://leetcode.com/problems/length-of-last-word/
+
+- **[Easy] Add Binary**  
+  Technique: Reverse binary addition with carry  
+  LeetCode: https://leetcode.com/problems/add-binary/
 ---
 
 ### Binary Search
