@@ -74,6 +74,9 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: Binary search, insertion point via `low`  
   LeetCode: https://leetcode.com/problems/search-insert-position/
 
+- **[Easy] Sqrt(x)**  
+  Technique: Binary search, overflow-avoidance via division  
+  LeetCode: https://leetcode.com/problems/sqrtx/
 ---
 ### Math
 - **[Easy] Palindrome Number**  
