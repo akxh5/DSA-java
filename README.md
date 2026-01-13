@@ -83,6 +83,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: Half reversal (math-based)  
   LeetCode: https://leetcode.com/problems/palindrome-number/
 ---
+### DP 
+- **[Easy] Climbing Stairs**  
+  Technique: DP, Fibonacci, rolling variables (O(1) space)  
+  LeetCode: https://leetcode.com/problems/climbing-stairs/
 
 ## Repository Structure
 
