@@ -30,6 +30,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: Carry simulation, dummy node  
   LeetCode: https://leetcode.com/problems/add-two-numbers/
 
+- **[Easy] Remove Duplicates from Sorted List**  
+  Technique: Linked list pointer mutation (in-place)  
+  LeetCode: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
 - **[Easy] Merge Two Sorted Lists**  
   Technique: Two pointers, dummy node, node splicing  
   LeetCode: https://leetcode.com/problems/merge-two-sorted-lists/
