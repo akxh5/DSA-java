@@ -20,6 +20,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: Two pointers (both ends), in-place overwrite  
   LeetCode: https://leetcode.com/problems/remove-element/
 
+- **[Easy] Merge Sorted Array**  
+  Technique: 3-pointer in-place merge (backward)  
+  LeetCode: https://leetcode.com/problems/merge-sorted-array/
+
 - **[Easy] Plus One**  
   Technique: Backward digit scan, carry propagation  
   LeetCode: https://leetcode.com/problems/plus-one/
