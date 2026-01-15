@@ -96,6 +96,11 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: DP, Fibonacci, rolling variables (O(1) space)  
   LeetCode: https://leetcode.com/problems/climbing-stairs/
 
+### Tree
+- **[Easy] Binary Tree Inorder Traversal**  
+  Technique: DFS, inorder (Left → Node → Right), iterative stack  
+  LeetCode: https://leetcode.com/problems/binary-tree-inorder-traversal/
+
 ## Repository Structure
 
 ```text
