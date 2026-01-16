@@ -105,6 +105,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: DFS structural equality (value + shape)  
   LeetCode: https://leetcode.com/problems/same-tree/
 
+- **[Easy] Symmetric Tree**  
+  Technique: DFS mirror check (Left ↔ Right), optional BFS pairing  
+  LeetCode: https://leetcode.com/problems/symmetric-tree/
+
 ## Repository Structure
 
 ```text
