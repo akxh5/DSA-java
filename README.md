@@ -109,6 +109,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: DFS mirror check (Left ↔ Right), optional BFS pairing  
   LeetCode: https://leetcode.com/problems/symmetric-tree/
 
+- **[Easy] Maximum Depth of Binary Tree**  
+  Technique: DFS depth accumulation (also BFS level counting)  
+  LeetCode: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
 ## Repository Structure
 
 ```text
