@@ -113,6 +113,9 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: DFS depth accumulation (also BFS level counting)  
   LeetCode: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
+- **[Easy] Convert Sorted Array to BST**  
+  Technique: Divide & Conquer, recursion, balanced BST construction  
+  LeetCode: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 ## Repository Structure
 
 ```text
