@@ -116,6 +116,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Convert Sorted Array to BST**  
   Technique: Divide & Conquer, recursion, balanced BST construction  
   LeetCode: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+- **[Easy] Balanced Binary Tree**  
+  Technique: DFS bottom-up, early fail, tree DP flavor  
+  LeetCode: https://leetcode.com/problems/balanced-binary-tree/
 ## Repository Structure
 
 ```text
