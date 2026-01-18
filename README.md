@@ -124,6 +124,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Minimum Depth of Binary Tree**  
   Technique: DFS with null-handling OR BFS shortest leaf search  
   LeetCode: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+
+- **[Easy] Path Sum**  
+  Technique: DFS root→leaf path accumulation (BFS optional)  
+  LeetCode: https://leetcode.com/problems/path-sum/
 ## Repository Structure
 
 ```text
