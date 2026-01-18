@@ -120,6 +120,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Balanced Binary Tree**  
   Technique: DFS bottom-up, early fail, tree DP flavor  
   LeetCode: https://leetcode.com/problems/balanced-binary-tree/
+
+- **[Easy] Minimum Depth of Binary Tree**  
+  Technique: DFS with null-handling OR BFS shortest leaf search  
+  LeetCode: https://leetcode.com/problems/minimum-depth-of-binary-tree/
 ## Repository Structure
 
 ```text
