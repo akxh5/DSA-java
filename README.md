@@ -94,6 +94,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Pascal's Triangle**  
   Technique: DP (2D), combinatorics, iterative buildup  
   LeetCode: https://leetcode.com/problems/pascals-triangle/
+
+- **[Easy] Pascal's Triangle II**  
+  Technique: 1D DP (reverse update), combinatorics  
+  LeetCode: https://leetcode.com/problems/pascals-triangle-ii/
 ---
 ### DP 
 - **[Easy] Climbing Stairs**  
