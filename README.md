@@ -90,6 +90,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Palindrome Number**  
   Technique: Half reversal (math-based)  
   LeetCode: https://leetcode.com/problems/palindrome-number/
+
+- **[Easy] Pascal's Triangle**  
+  Technique: DP (2D), combinatorics, iterative buildup  
+  LeetCode: https://leetcode.com/problems/pascals-triangle/
 ---
 ### DP 
 - **[Easy] Climbing Stairs**  
