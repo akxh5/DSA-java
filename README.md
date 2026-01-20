@@ -27,6 +27,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Plus One**  
   Technique: Backward digit scan, carry propagation  
   LeetCode: https://leetcode.com/problems/plus-one/
+
+- **[Easy] Best Time to Buy and Sell Stock**  
+  Technique: Greedy (single pass), DP optimization  
+  LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 ---
 
 ### Linked List
