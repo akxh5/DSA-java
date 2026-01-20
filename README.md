@@ -31,6 +31,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Best Time to Buy and Sell Stock**  
   Technique: Greedy (single pass), DP optimization  
   LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+- **[Easy] Valid Palindrome**  
+  Technique: Two-pointers, character filtering, ASCII normalization  
+  LeetCode: https://leetcode.com/problems/valid-palindrome/
 ---
 
 ### Linked List
