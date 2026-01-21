@@ -35,6 +35,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Valid Palindrome**  
   Technique: Two-pointers, character filtering, ASCII normalization  
   LeetCode: https://leetcode.com/problems/valid-palindrome/
+
+- **[Easy] Single Number**  
+  Technique: XOR, bit manipulation, linear time & constant space  
+  LeetCode: https://leetcode.com/problems/single-number/
 ---
 
 ### Linked List
