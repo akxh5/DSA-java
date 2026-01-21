@@ -53,6 +53,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Merge Two Sorted Lists**  
   Technique: Two pointers, dummy node, node splicing  
   LeetCode: https://leetcode.com/problems/merge-two-sorted-lists/
+
+- **[Easy] Linked List Cycle**  
+  Technique: Floyd's tortoise & hare, cycle detection  
+  LeetCode: https://leetcode.com/problems/linked-list-cycle/
 ---
 
 ### Strings
