@@ -125,6 +125,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
   Technique: DFS, inorder (Left → Node → Right), iterative stack  
   LeetCode: https://leetcode.com/problems/binary-tree-inorder-traversal/
 
+- **[Easy] Preorder Traversal**  
+  Technique: DFS, recursion, iterative stack, preorder (Root → Left → Right)  
+  LeetCode: https://leetcode.com/problems/binary-tree-preorder-traversal/
+
 - **[Easy] Same Tree**  
   Technique: DFS structural equality (value + shape)  
   LeetCode: https://leetcode.com/problems/same-tree/
