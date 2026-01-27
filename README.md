@@ -57,6 +57,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Linked List Cycle**  
   Technique: Floyd's tortoise & hare, cycle detection  
   LeetCode: https://leetcode.com/problems/linked-list-cycle/
+
+- **[Easy] Intersection of Two Linked Lists**  
+  Technique: Two-pointer switching, O(m+n) time, O(1) space  
+  LeetCode: https://leetcode.com/problems/intersection-of-two-linked-lists/
 ---
 
 ### Strings
