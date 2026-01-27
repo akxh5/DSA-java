@@ -118,6 +118,10 @@ Each problem is solved locally first, committed to GitHub, and then submitted on
 - **[Easy] Pascal's Triangle II**  
   Technique: 1D DP (reverse update), combinatorics  
   LeetCode: https://leetcode.com/problems/pascals-triangle-ii/
+
+- **[Easy] Excel Sheet Column Title**  
+  Technique: Base-26 conversion (1-indexed)  
+  LeetCode: https://leetcode.com/problems/excel-sheet-column-title/
 ---
 ### DP 
 - **[Easy] Climbing Stairs**  
